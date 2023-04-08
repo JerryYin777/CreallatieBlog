@@ -1,8 +1,8 @@
-## Hi there 👋 Welcome to visit my personal blog
+## Welcome to visit my personal blog👋
 
 This is my Personal Blog, I will share my research and life here: [Creallatie's Blog](www.creallatie.icu)
 
-Thanks a lot for @austin2035 's [astro-air-blog template](https://github.com/austin2035/astro-air-blog),this is a minimalist, beautiful, responsive blogging program written in Astro.
+Thanks a lot for [@austin2035](https://github.com/austin2035) 's [astro-air-blog template](https://github.com/austin2035/astro-air-blog),this is a minimalist, beautiful, responsive blogging program written in Astro.You can also reproduce it following this [instruction](https://yufengbiji.com/posts/astro-air-blog-guide)
 
 I'm JerryYin 骢睿, an undergraduate sophomore in Nanchang University majoring in artificial intelligence,working at [Generic Operational and Optimal Data Group](https://good.ncu.edu.cn/index.html) and here is my [personal lab page](https://good.ncu.edu.cn/~YinCR/).I want to be an excellent NLP or System Ph.D and do more interesting open-source projects.
 

@@ -1,14 +1,14 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '虚幻引擎5.1带来电影、广播、动画和实况活动新功能'
-pubDate: 2025-05-01
+pubDate: 2022-05-04
 description: '从通过摄像机内视效实现的虚拟制片，到动画项目以及激情四射的实况广播和活动，虚幻引擎为媒体和娱乐管线提供了更庞大、更健壮、更易用的工具集。来看看有哪些新功能吧。'
 author: '虚幻引擎官网'
 cover:
     url: 'https://cdn2.unrealengine.com/unreal-engine-5-1-media-and-entertainment-header-1920x1080-d314b1b23459.jpg?resize=1&w=1920'
     square: 'https://cdn2.unrealengine.com/unreal-engine-5-1-media-and-entertainment-header-1920x1080-d314b1b23459.jpg?resize=1&w=1920'
     alt: 'cover'
-tags: ["功能", "动画", "广播与实况", "虚幻引擎"]
+tags: ["功能", "动画", "广播与实况", "科技前沿"]
 theme: 'light'
 featured: false
 ---
