@@ -2,8 +2,8 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ArchivePostList from "../layouts/ArchivePostList.astro";
 const allPosts = await Astro.glob("./posts/*.md");
-const tags = ["新闻稿", "科技前沿", "源码研究","生活分享"];
-const posts = [];
+const tags = ["校园杂记", "科技前讯", "源码研究", "技术分享"];
+const posts = ["talk-golang-slice.md"];
 
 tags.forEach((tag) => {
   let filteredPosts = allPosts.filter((post) => post.frontmatter.tags.includes(tag));

@@ -3,7 +3,7 @@ layout: '../../layouts/MarkdownPost.astro'
 title: '浅谈 Go 1.18.1的切片扩容机制'
 pubDate: 2022-04-17
 description: '从Go源码分析切片的扩容机制。'
-author: 'Austin'
+author: 'Creallatie'
 cover:
     url: 'https://pic.lookcos.cn/i/usr/uploads/2023/02/1277661091.png'
     square: 'https://pic.lookcos.cn/i/usr/uploads/2023/02/1277661091.png'
